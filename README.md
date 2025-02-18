@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">🛠️ Technologies and Tools</h2>
+<h2 align="left">🛠️ Tecnologias y Herramientas</h2>
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h2 align="left">📫 Contact to me</h2>
+<h2 align="left">📫 Contacto</h2>
 
 ###
 
